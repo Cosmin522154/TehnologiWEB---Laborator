@@ -1,17 +1,22 @@
 # TehnologiWEB---Laborator
 
  Ce este o resura (resource) in aplicatia ta?
+	
  Da exemplu de un URI si explica componentele acestuia.
+	
  Care parti sunt statice si care sunt dinamice?
+	
 Este aplicatia ta document-centric sau interactive (sau ambele)? De ce?
 
+
 1. Ce este o resura (resource) in aplicatia ta?:
+   
 În cadrul acestui „Campus Info Hub”, am tratat ca resursă orice unitate de informație independentă care deservește studentul. Concret, resursele mele sunt:
   Obiectele de date: Informațiile despre punctele de interes (Bibliotecă, Cantină), care sunt stocate și manipulate prin JavaScript.
   Fișierele media: Imaginile reprezentative pentru campus și iconițele care ajută la identificarea vizuală a categoriilor.
   Documentele web: Paginile HTML și stilurile CSS care sunt livrate utilizatorului la cerere.
 
-2. Da exemplu de un URI si explica componentele acestuia.:
+3. Da exemplu de un URI si explica componentele acestuia.:
 Pentru a accesa resursele aplicației, am utilizat o structură ierarhică de adrese. De exemplu:
   https://campusinfohub.ro/pages/librarie.html
 
